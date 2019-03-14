@@ -21,7 +21,6 @@
     * Interview 1 : Core Behaviors Review (1 hour)
     * Interview 2 : System Design / Architecture Review (1 hour)
     * Interview 3 : Language/Framework Specific (1 hour)
-    * Lunch : Casual lunch with some team members (1 hour)
 * Intern
     * Interview 1 : Core Behaviors Review (30 minutes)
     * Interview 2 : Language/Framework Specific (30 minutes)
@@ -40,7 +39,6 @@
     * Interview 1 : Core Behaviors Review (1 hour)
     * Interview 2 : System Design / Architecture Review (1 hour)
     * Interview 3 : Language/Framework Specific (1 hour)
-    * Lunch : Casual lunch with some team members (1 hour)
 * Intern
     * Interview 1 : Core Behaviors Review (30 minutes)
     * Interview 2 : Language/Framework Specific (30 minutes)
@@ -59,7 +57,6 @@
      * Interview 1 : Core Behaviors Review (1 hour)
      * Interview 2 : Portfolio Presentation (1 hour)
      * Interview 3 : Design Challenge Review (1 hour)
-    * Lunch : Casual lunch with some team members (1 hour)
 * Intern
     * Interview 1 : Core Behaviors Review (30 minutes)
     * Interview 2 : Design Challenge Review (30 minutes)
@@ -75,7 +72,6 @@
     * Interview 1 : Core Behaviors Review (1 hour)
     * Interview 2 : Software Development Lifecycle and Process Review (1 hour)
     * Interview 3 : People Leader Concepts (1 hour)
-    * Lunch : Casual lunch with some team members (1 hour)
     * Process Fun : Running a Sprint [challenge](people_1.md)
 
 ### Decision Time
