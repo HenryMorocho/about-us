@@ -4,6 +4,8 @@ Effort Level : 2-4 hours
 
 Your goal is to build a simple page that displays data our API. Please review the instructions
 
+### Note - You will need to either use a reverse proxy like Express to make api calls or disable CORS in your browser using an extension like https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en
+
 * Pick a frontend framework
 * Create a public GitHub repo and utilize any tooling you desire
 * Review our [API docs](https://www.packet.com/developers/api/)
