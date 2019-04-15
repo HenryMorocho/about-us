@@ -121,20 +121,21 @@ Team Lead - Role, embedded in cross-functional team.
 ### Prioritization 
 
 The SWE team navigates priority between 3 primary sources of work: Product, Support and Tech. 
+
 __Sources of Work__
 
-Product - Packet’s Product team uses ProductBoard as the single source of truth:
+*Product - Packet’s Product team uses ProductBoard as the single source of truth:
 Corporate roadmap into product launches, SWE priorities with timelines, releases identified.
 Customer specific requirements for large deals.
 All roadmap items to be linked to Jira Epic.
 
 The handoff of a roadmap item on the ProductBoard to SWE takes place after both teams have agreed on the expectations, scope of work and timelines of the completed product. Timelines are determined collaboratively by the team leads and engineering managers based on scope and resource allocation. The process of prioritization is a joint effort between product and SWE team where priority is weighed against that of Support and Tech work.
 
-Support - A goalie team with rotating members serve to triage support/ops issues, expand our Knowledge Base and reduce single points of failure. The goalies stay on for 2 weeks and are dedicated full time on business days during office hours. 
+*Support - A goalie team with rotating members serve to triage support/ops issues, expand our Knowledge Base and reduce single points of failure. The goalies stay on for 2 weeks and are dedicated full time on business days during office hours. 
 
 They work on the issues that have been prioritized by the Customer Support Liaison (CSL) on the board, prioritization also follows the Kanban workflow. If another task/issue (labeled with ‘goalie’ tag) comes in that is considered more urgent, this will need to be coordinated with the CSL and determined what task will be put on hold while the goalie works the issue or whether an incident should be created instead. More information in the Goalie Handbook.
 
-Tech - An important source of work is maintenance, tech debt, code refactoring and new architectures (e.g. RBAC system, API gateway). When doing roadmap planning and determining priorities tech work is a critical consideration. Systematically working on resolving platform architecture issues and pushing our tech to the next level of performance, scale and quality of the code we ship. Part of this work is taken into account for when building out new features. Teams need to work in the architecture that has been discussed in the Guild meetings or what the team has decided is best for the project. We also want to empower our teams to make time for working on tech debt by allowing the team to prioritize and work on tech debt. For guidance but not as a requirement a team should allow themselves to take ~20% of their time addressing debt.
+*Tech - An important source of work is maintenance, tech debt, code refactoring and new architectures (e.g. RBAC system, API gateway). When doing roadmap planning and determining priorities tech work is a critical consideration. Systematically working on resolving platform architecture issues and pushing our tech to the next level of performance, scale and quality of the code we ship. Part of this work is taken into account for when building out new features. Teams need to work in the architecture that has been discussed in the Guild meetings or what the team has decided is best for the project. We also want to empower our teams to make time for working on tech debt by allowing the team to prioritize and work on tech debt. For guidance but not as a requirement a team should allow themselves to take ~20% of their time addressing debt.
 
 ### SWE Roadmap 
 
