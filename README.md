@@ -94,7 +94,7 @@ Each squad ideally is made up of these skillsets:
 
 ### Roles/Titles & Responsibilities
 
-VP of Engineering - Job title. 
+*VP of Engineering* - Job title. 
 * Manages the SWE team, directly manages the Engineering Managers.
 * Responsible for the entire product development lifecycle.
 * Interfaces between CTO and EMs.
@@ -102,7 +102,7 @@ VP of Engineering - Job title.
 * Works closely with the VP of Production Engineering to ensure a strong DevOps culture.
 * Develops and grows the bench strengths at technology and leadership levels through mentoring, coaching, training, and talent retention.
 
-Engineering Manager - Job title. 
+*Engineering Manager* - Job title. 
 * Is the interface between strategy and delivery.
 * Manages members of one or more cross-functional teams.
 * Works with the leadership team and translates directives to their team as actionable tasks and deliverables. 
@@ -112,7 +112,7 @@ Engineering Manager - Job title.
 * Oversees development and performance of team members.
 * Analyzes resource allocation and recruits new engineers as needed
 
-Team Lead - Role, embedded in cross-functional team.
+*Team Lead* - Role, embedded in cross-functional team.
 * A Senior Engineer in technical lead role, does not manage people. 
 * Interfaces with the product team and EMs for planning and discussing features/roadmap items. 
 * Translates the product into software execution plan. 
@@ -124,26 +124,26 @@ The SWE team navigates priority between 3 primary sources of work: Product, Supp
 
 __Sources of Work__
 
-*Product - Packet’s Product team uses ProductBoard as the single source of truth:
+*Product* - Packet’s Product team uses ProductBoard as the single source of truth:
 Corporate roadmap into product launches, SWE priorities with timelines, releases identified.
 Customer specific requirements for large deals.
 All roadmap items to be linked to Jira Epic.
 
 The handoff of a roadmap item on the ProductBoard to SWE takes place after both teams have agreed on the expectations, scope of work and timelines of the completed product. Timelines are determined collaboratively by the team leads and engineering managers based on scope and resource allocation. The process of prioritization is a joint effort between product and SWE team where priority is weighed against that of Support and Tech work.
 
-*Support - A goalie team with rotating members serve to triage support/ops issues, expand our Knowledge Base and reduce single points of failure. The goalies stay on for 2 weeks and are dedicated full time on business days during office hours. 
+*Support* - A goalie team with rotating members serve to triage support/ops issues, expand our Knowledge Base and reduce single points of failure. The goalies stay on for 2 weeks and are dedicated full time on business days during office hours. 
 
 They work on the issues that have been prioritized by the Customer Support Liaison (CSL) on the board, prioritization also follows the Kanban workflow. If another task/issue (labeled with ‘goalie’ tag) comes in that is considered more urgent, this will need to be coordinated with the CSL and determined what task will be put on hold while the goalie works the issue or whether an incident should be created instead. More information in the Goalie Handbook.
 
-*Tech - An important source of work is maintenance, tech debt, code refactoring and new architectures (e.g. RBAC system, API gateway). When doing roadmap planning and determining priorities tech work is a critical consideration. Systematically working on resolving platform architecture issues and pushing our tech to the next level of performance, scale and quality of the code we ship. Part of this work is taken into account for when building out new features. Teams need to work in the architecture that has been discussed in the Guild meetings or what the team has decided is best for the project. We also want to empower our teams to make time for working on tech debt by allowing the team to prioritize and work on tech debt. For guidance but not as a requirement a team should allow themselves to take ~20% of their time addressing debt.
+*Tech* - An important source of work is maintenance, tech debt, code refactoring and new architectures (e.g. RBAC system, API gateway). When doing roadmap planning and determining priorities tech work is a critical consideration. Systematically working on resolving platform architecture issues and pushing our tech to the next level of performance, scale and quality of the code we ship. Part of this work is taken into account for when building out new features. Teams need to work in the architecture that has been discussed in the Guild meetings or what the team has decided is best for the project. We also want to empower our teams to make time for working on tech debt by allowing the team to prioritize and work on tech debt. For guidance but not as a requirement a team should allow themselves to take ~20% of their time addressing debt.
 
 ### SWE Roadmap 
 
 The 90 day SWE roadmap is made up of epics and can be viewed in Jira. The epics listed reflect the ProductBoard roadmap items as well as epics that are not on the ProductBoard but the source of work is Tech or Support. 
 
-Epic - An epic is a larger body of work. The epic is made up of tasks that together form the release of the code that achieves the goals indicated in the description. The epics are created typically by the Team Lead.
+*Epic* - An epic is a larger body of work. The epic is made up of tasks that together form the release of the code that achieves the goals indicated in the description. The epics are created typically by the Team Lead.
 
-Milestone - A milestone can be a certain functionality or period of a calendar month used as a guide post in which value is delivered to a customer. The milestones in Jira are managed in Releases. To create a new Milestone a new Release is created. When planning and scoping epics for a particular milestone the Jira tickets are associated to it by updating the ‘fix version field’, e.g. 2019-04 (Q2 Milestone 1).
+*Milestone* - A milestone can be a certain functionality or period of a calendar month used as a guide post in which value is delivered to a customer. The milestones in Jira are managed in Releases. To create a new Milestone a new Release is created. When planning and scoping epics for a particular milestone the Jira tickets are associated to it by updating the ‘fix version field’, e.g. 2019-04 (Q2 Milestone 1).
 
 ### Working toward Production
 
@@ -169,28 +169,28 @@ To be able to fully understand what it means for something to be done it must fi
 
 We should leverage our deployment automation to continue building a new feature in small batches and use things like feature flagging to be able to control when the feature is released as GA.
 
-Kanban workflow - The team practices a traditional Kanban workflow. The goal is to work toward completion of incremental, evolutionary changes. The workflow is visualized on our boards in Jira: SWE on-going and Goalie. WIP is limited and new work can only be placed into the input queue once another task has been completed. Board is prioritized right-to-left and then top-to-bottom. Items that are in the top right should be top priority. Once an engineer is free to pick up work they will work on getting things that are in progress or blocked completed before pulling in new work.
+*Kanban workflow* - The team practices a traditional Kanban workflow. The goal is to work toward completion of incremental, evolutionary changes. The workflow is visualized on our boards in Jira: SWE on-going and Goalie. WIP is limited and new work can only be placed into the input queue once another task has been completed. Board is prioritized right-to-left and then top-to-bottom. Items that are in the top right should be top priority. Once an engineer is free to pick up work they will work on getting things that are in progress or blocked completed before pulling in new work.
 
-Devops - We are continuously building our application by following a tight Continuous 
+*Devops* - We are continuously building our application by following a tight Continuous 
 Integration and Continuous Deployment process. This means that both existing and new code goes through an infinite cycle.
 
 ### Tooling, Reporting and Management Review
 
-JIRA: Used by SWE for task tracking, milestone planning and roadmap.
-GitHub: Code repositories
-Discourse: Used by SWE for knowledge sharing, runbooks, troubleshooting how to’s.
-Google Docs: Used by SWE for collaborating asynchronously.
-Workplace Groups: Used by SWE for sharing updates, interesting articles, gathering feedback.
-Slack: For day to day communication.
-Lattice: For 1:1’s, review and personal goals.
-Pagerduty: For paging on failures and outages, on-call scheduler.
-Blameless: Incident and post mortem tool
-Firehydrant: Testing out to potentially replace Blameless
-Bugsnag: For reporting UI errors
-NewRelic, others for monitoring: Plan in development to consolidate tools
-Rollbar
-Runscope
-Uptime Robot
+* JIRA: Used by SWE for task tracking, milestone planning and roadmap.
+* GitHub: Code repositories
+* Discourse: Used by SWE for knowledge sharing, runbooks, troubleshooting how to’s.
+* Google Docs: Used by SWE for collaborating asynchronously.
+* Workplace Groups: Used by SWE for sharing updates, interesting articles, gathering feedback.
+* Slack: For day to day communication.
+* Lattice: For 1:1’s, review and personal goals.
+* Pagerduty: For paging on failures and outages, on-call scheduler.
+* Blameless: Incident and post mortem tool
+  *Firehydrant: Testing out to potentially replace Blameless*
+* Bugsnag: For reporting UI errors
+* NewRelic, others for monitoring: Plan in development to consolidate tools
+* Rollbar
+* Runscope
+* Uptime Robot
 
 ### Resources
 
