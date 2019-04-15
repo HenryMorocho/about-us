@@ -53,7 +53,7 @@ Packet’s SWE team has adopted an agile model that supports our engineers to be
 
 ### Teams
 
-According to the [Agile Manifesto](https://assets.uits.iu.edu/pdf/Agile-Manifesto.pdf): “The best architectures, requirements, and designs emerge from self-organising teams. Packet’s SWE team has adopted a team structure that allows for autonomy. All teams manage their own Kanban board and hold weekly or bi-weekly meetings. The teams are assembled according to having these 5 principles in common:
+According to the [Agile Manifesto](https://assets.uits.iu.edu/pdf/Agile-Manifesto.pdf): “The best architectures, requirements, and designs emerge from self-organising teams." Packet’s SWE team has adopted a team structure that allows for autonomy. All teams manage their own Kanban board and hold weekly or bi-weekly meetings. The teams are assembled according to having these 5 principles in common:
 
 * Joint tasks to fulfil a compelling mission;
 * Clear boundaries in terms of information flow, alignment with other organisational units, resources or decision-making policies;
@@ -83,13 +83,13 @@ These are groups of people that share a competency or interest. The same people 
 
 __Squad Composition__
 
-Roles
+Each squad ideally is made up of these skillsets:
 
-Tech Team lead
-Infra Architect 
-Backend engineer
-Frontend engineer 
-UX Designer
+* Tech Team lead
+* Infra Architect 
+* Backend engineer
+* Frontend engineer 
+* UX Designer
 
 
 ### Roles/Titles & Responsibilities
@@ -125,7 +125,7 @@ __Sources of Work__
 
 Product - Packet’s Product team uses ProductBoard as the single source of truth:
 Corporate roadmap into product launches, SWE priorities with timelines, releases identified.
-Customer specific requirements for large deals such as Sprint-Ericsson, Equinix, Verizon etc.
+Customer specific requirements for large deals.
 All roadmap items to be linked to Jira Epic.
 
 The handoff of a roadmap item on the ProductBoard to SWE takes place after both teams have agreed on the expectations, scope of work and timelines of the completed product. Timelines are determined collaboratively by the team leads and engineering managers based on scope and resource allocation. The process of prioritization is a joint effort between product and SWE team where priority is weighed against that of Support and Tech work.
