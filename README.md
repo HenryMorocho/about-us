@@ -68,9 +68,9 @@ These teams have the responsibility for specific projects and or business capabi
 Squad Name    | Main Focus | SLO 
 :-------------|----------- | ---  
 [X-force](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=60&useStoredSettings=true) | Customer Management and Overall Experience | [API Apdex](https://synthetics.newrelic.com/accounts/45249/monitors/ee8b6b9b-7373-411d-a801-67708572e293/sla?view=daily-sla-report) 
-[Suicide Squad](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=83&projectKey=SWE) (SuS) | Compute Products, Provisioning | [Successful Provision % (internal)](https://northstar.packet.net/d/71i_Y0Jmz/vip-provision-metrics?orgId=1), [Customer Data Only (internal)](https://northstar.packet.net/d/RP-qZ82iz/northstar-dashboard-pusher-data-customer-only)
-[Network Warriors](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=74&projectKey=SWE) | Network Products & Automation | TBD
-[CMR](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=66&projectKey=SWE) | Business Processes Automation & Asset Management| TBD
+[Team 2](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=93)  | Cross-functional and Asset Management | [Successful Provision % (internal)](https://northstar.packet.net/d/71i_Y0Jmz/vip-provision-metrics?orgId=1), [Customer Data Only (internal)](https://northstar.packet.net/d/RP-qZ82iz/northstar-dashboard-pusher-data-customer-only)
+[Nautilus](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=74&projectKey=SWE) | Cross-functional | TBD
+[Mo'Money](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=100) | Business Processes Automation | TBD
 
 __Guilds__ 
 
