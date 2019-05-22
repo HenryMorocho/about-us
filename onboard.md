@@ -24,7 +24,6 @@ __Day 1__
 
 __Week 1__
 
-* Finalized your personal development plan (pdp) with your manager, and updated your bam/sam and issued a PR.
 * Completed your first issue by getting your PR(s) reviewed and merged and pushed to production! (bravo if you got multiple in your first week!)
 * Working with your team to start taking on more issues or a bigger item like an EPIC
 * Introduction to additional services that may be required for you to do your job
